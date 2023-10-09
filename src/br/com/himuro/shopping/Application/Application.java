@@ -32,7 +32,7 @@ public class Application {
                 System.out.println("Press 0 to exit or 1 to continue");
                 i = sc.nextInt();
             }
-            catch (Error e) {
+            catch (Exception e) {
                 System.out.println("Invalid input");
             }
         }

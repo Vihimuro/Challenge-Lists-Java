@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d761f785-d87e-4506-87a7-9b7addbfeaf7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/himuro/shopping/Application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/himuro/shopping/Application/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/himuro/shopping/Models/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/himuro/shopping/Models/CreditCard.java" afterDir="false" />
-    </list>
+    <list default="true" id="d761f785-d87e-4506-87a7-9b7addbfeaf7" name="Changes" comment="feat: challenge completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +39,19 @@
       <option name="presentableId" value="Default" />
       <updated>1696624289388</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: challenge completed">
+      <option name="closed" value="true" />
+      <created>1696852193708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696852193708</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: challenge completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: challenge completed" />
   </component>
 </project>
